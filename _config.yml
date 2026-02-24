@@ -24,26 +24,20 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Lu Chen （陈鲁）\n Landscape Architecture PhD candidate "
+  name             : "Lu Chen （陈鲁)<br>Landscape Architecture PhD candidate "
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research interests include:<br>urban ecological spaces, urban hydrological processes,<br>computer-aided design, AI agents"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "chenlu24@mails.tsinghua.edu.cn" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+
   googlescholar    : "https://scholar.google.com/citations?user=qFoCG6IAAAAJ&hl=zh-CN"
-  inspire-hep      : # URL
-  impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-5525-5111"
-  semantic         : # URL
-  ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : ""
   zotero           : # chenlubenren
 
 
@@ -56,9 +50,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  Bilibili       : "https://space.bilibili.com/355933377?spm_id_from=333.1007.0.0"
+  Rednote         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
