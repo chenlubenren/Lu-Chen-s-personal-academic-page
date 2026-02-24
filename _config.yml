@@ -26,17 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Lu Chen （陈鲁)<br>Landscape Architecture PhD candidate "
   pronouns         : # example: "she/her"  
-  bio              : "Research interests include:<br>urban ecological spaces, urban hydrological processes,<br>computer-aided design, AI agents"
+  bio              : "Research interests include:<br>urban ecological spaces, <br>urban hydrological processes,<br>computer-aided design,<br>AI agents"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
-  uri              : # URL
+  uri              : "https://chenlubenren.github.io/personal-academic-page/"
   email            : "chenlu24@mails.tsinghua.edu.cn" 
 
   # Academic websites
 
   googlescholar    : "https://scholar.google.com/citations?user=qFoCG6IAAAAJ&hl=zh-CN"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-5525-5111"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : ""
   zotero           : # chenlubenren
 
